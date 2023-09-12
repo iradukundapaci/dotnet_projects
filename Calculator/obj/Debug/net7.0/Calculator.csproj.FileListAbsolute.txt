@@ -1,0 +1,14 @@
+D:\corses\courses\dotnet\Calculator\bin\Debug\net7.0\Calculator.exe
+D:\corses\courses\dotnet\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\corses\courses\dotnet\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+D:\corses\courses\dotnet\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\corses\courses\dotnet\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+D:\corses\courses\dotnet\Calculator\obj\Debug\net7.0\ref\Calculator.dll
